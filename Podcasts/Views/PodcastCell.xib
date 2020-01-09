@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="podcastCell" rowHeight="248" id="QVB-tc-rIJ" customClass="PodcastCell" customModule="Podcasts" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="454" height="180"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="QVB-tc-rIJ" id="VtJ-c1-jis">
+                <rect key="frame" x="0.0" y="0.0" width="454" height="180"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mic.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="dat-e6-S8s">
+                        <rect key="frame" x="20" y="19.5" width="180" height="140"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="180" id="GSo-ks-Ruc"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Collection Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4h4-lt-voe">
+                        <rect key="frame" x="208" y="8" width="238" height="21"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Artist Name" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PwB-YX-O4S">
+                        <rect key="frame" x="208" y="37" width="218" height="18"/>
+                        <fontDescription key="fontDescription" type="system" weight="light" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="4h4-lt-voe" secondAttribute="trailing" constant="8" id="9dB-HO-L41"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="PwB-YX-O4S" secondAttribute="trailing" constant="8" id="AhC-Z0-Gqc"/>
+                    <constraint firstItem="4h4-lt-voe" firstAttribute="leading" secondItem="dat-e6-S8s" secondAttribute="trailing" constant="8" id="KEm-Sw-pTY"/>
+                    <constraint firstItem="4h4-lt-voe" firstAttribute="top" secondItem="VtJ-c1-jis" secondAttribute="top" constant="8" id="KrU-CG-X7R"/>
+                    <constraint firstAttribute="bottom" secondItem="dat-e6-S8s" secondAttribute="bottom" constant="20" symbolic="YES" id="Pho-Aa-WMf"/>
+                    <constraint firstItem="PwB-YX-O4S" firstAttribute="top" secondItem="4h4-lt-voe" secondAttribute="bottom" constant="8" id="VQ7-O6-YZr"/>
+                    <constraint firstItem="dat-e6-S8s" firstAttribute="leading" secondItem="VtJ-c1-jis" secondAttribute="leading" constant="20" symbolic="YES" id="nyh-AT-WR4"/>
+                    <constraint firstItem="PwB-YX-O4S" firstAttribute="leading" secondItem="dat-e6-S8s" secondAttribute="trailing" constant="8" id="xHn-dr-vYb"/>
+                    <constraint firstItem="dat-e6-S8s" firstAttribute="top" secondItem="VtJ-c1-jis" secondAttribute="top" constant="20" symbolic="YES" id="xbX-tZ-AVZ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="artistNameLabel" destination="PwB-YX-O4S" id="oS2-by-ghZ"/>
+                <outlet property="collectionNameLabel" destination="4h4-lt-voe" id="BHq-BO-ISt"/>
+                <outlet property="podcastImageView" destination="dat-e6-S8s" id="S7B-iB-UR6"/>
+            </connections>
+            <point key="canvasLocation" x="140.57971014492756" y="52.232142857142854"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="mic.fill" catalog="system" width="54" height="64"/>
+    </resources>
+</document>

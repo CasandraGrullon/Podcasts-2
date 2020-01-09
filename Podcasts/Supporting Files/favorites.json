@@ -1,0 +1,545 @@
+[
+  {
+    "favoriteId": "16",
+    "createdAt": 1546547092,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/ea/f6/88/eaf68894-0e28-354b-19d0-ff4d05c18539/source/600x600bb.jpg",
+    "favoritedBy": "Olimpia Compean"
+  },
+  {
+    "favoriteId": "17",
+    "createdAt": 1546547036,
+    "trackId": 1267161825,
+    "collectionName": "Swift by Sundell",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/0b/5b/cd/0b5bcd3a-2f31-16e6-cf99-1ad16e099fb6/source/600x600bb.jpg",
+    "favoritedBy": "Ape Li"
+  },
+  {
+    "favoriteId": "18",
+    "createdAt": 1546546977,
+    "trackId": 1435076502,
+    "collectionName": "Swift over Coffee",
+    "artworkUrl600": "artworkUrl600 18",
+    "favoritedBy": "Jane",
+    "artworkURL600": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/3e/dc/7a/3edc7a05-9398-a4a9-ba2b-21587d6a0017/source/600x600bb.jpg"
+  },
+  {
+    "favoriteId": "19",
+    "createdAt": 1546546921,
+    "trackId": 37,
+    "collectionName": "Swiftcast: The #1 Taylor Swift Podcast",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/b0/0f/fe/b00ffe70-7182-b670-bb58-d889efceb892/source/600x600bb.jpg",
+    "favoritedBy": "Aaron Cabreja"
+  },
+  {
+    "favoriteId": "21",
+    "createdAt": 1546546806,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/ea/f6/88/eaf68894-0e28-354b-19d0-ff4d05c18539/source/600x600bb.jpg",
+    "favoritedBy": "Oniel"
+  },
+  {
+    "favoriteId": "22",
+    "createdAt": 1546546748,
+    "trackId": 477534265,
+    "collectionName": "Taylor Talk: The Taylor Swift Podcast | reputation | 1989 | Red | Speak Now | Fearless | Taylor Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/7a/da/01/7ada01b5-86af-1b0e-1f64-7590b7ac4bee/source/600x600bb.jpg",
+    "favoritedBy": "Jose Carlo"
+  },
+  {
+    "favoriteId": "43",
+    "createdAt": 1546545559,
+    "trackId": 1209817203,
+    "collectionName": "Swift Unwrapped",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/42/bb/77/42bb776c-6860-212f-6f46-516f31d9bcc4/source/600x600bb.jpg",
+    "favoritedBy": "The Living Legend"
+  },
+  {
+    "favoriteId": "44",
+    "createdAt": 1546545502,
+    "trackId": 477534265,
+    "collectionName": "Taylor Talk: The Taylor Swift Podcast | reputation | 1989 | Red | Speak Now | Fearless | Taylor Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/7a/da/01/7ada01b5-86af-1b0e-1f64-7590b7ac4bee/source/600x600bb.jpg",
+    "favoritedBy": "Joshua Viera"
+  },
+  {
+    "favoriteId": "46",
+    "createdAt": 1546545384,
+    "trackId": 1012793433,
+    "collectionName": "Colin Thomson: Do More",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/a2/bb/cb/a2bbcb14-6342-ab23-7528-3debbecd6539/source/600x600bb.jpg",
+    "favoritedBy": "Leandro Wauters"
+  },
+  {
+    "favoriteId": "47",
+    "createdAt": 1546545357,
+    "trackId": 1012793433,
+    "collectionName": "Colin Thomson interviews musicians and entertainers like Bryan Callen and Bobby Owsinski , to get advice on what musicians should be doing today. Tim Ferriss, Seth Godin, and Justin Timberlake should also come on the show, as well as Taylor Swift, Just",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/a2/bb/cb/a2bbcb14-6342-ab23-7528-3debbecd6539/source/600x600bb.jpg",
+    "favoritedBy": "Jian Ting"
+  },
+  {
+    "favoriteId": "59",
+    "createdAt": 1576597281,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a8/c0/09/a8c0099a-3e9a-3a6b-f4af-b2767e25630d/mza_6721617997679729951.png/100x100bb.jpg",
+    "favoritedBy": "Bob Bobby"
+  },
+  {
+    "favoriteId": "61",
+    "createdAt": 1576600656,
+    "trackId": 1406534739,
+    "collectionName": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/b0/7c/df/b07cdf51-10e5-3400-4096-e7f13565b650/mza_1985224805354090935.jpeg/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "62",
+    "createdAt": 1576600902,
+    "trackId": 360084272,
+    "collectionName": "The Joe Rogan Experience",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/12/ab/d6/12abd655-2473-c4fb-7d53-33e1b9e4afdc/mza_6788052308516976968.jpg/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "63",
+    "createdAt": 1576603912,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a8/c0/09/a8c0099a-3e9a-3a6b-f4af-b2767e25630d/mza_6721617997679729951.png/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "70",
+    "createdAt": 1576607119,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/ea/f6/88/eaf68894-0e28-354b-19d0-ff4d05c18539/source/600x600bb.jpg",
+    "favoritedBy": "Ahad"
+  },
+  {
+    "favoriteId": "71",
+    "createdAt": 1576607253,
+    "trackId": 0,
+    "collectionName": "UFC Unfiltered with Jim Norton and Matt Serra",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/dd/21/e9/dd21e90f-2da1-3024-d752-1893b26297bc/mza_8821645197361588718.jpeg/600x600bb.jpg",
+    "favoritedBy": "Tsering"
+  },
+  {
+    "favoriteId": "72",
+    "createdAt": 1576608983,
+    "trackId": 1435076502,
+    "collectionName": "Swift over Coffee",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/6c/c3/52/6cc3520d-49a2-d97c-8e0f-d350e6cb8bed/mza_4088844244369011192.jpg/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "73",
+    "createdAt": 1576608976,
+    "trackId": 1261697674,
+    "collectionName": "BATMANLAND",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5a/0a/4b/5a0a4b99-cf15-7b9a-adca-b7ebdf5821ec/mza_7768694593268860528.jpg/600x600bb.jpg",
+    "favoritedBy": "B.A."
+  },
+  {
+    "favoriteId": "74",
+    "createdAt": 1576609010,
+    "trackId": 1469999563,
+    "collectionName": "The Portal",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/18/31/27/18312707-b4ba-f8e2-fc54-67cb27dcacf4/mza_14221510211009738326.jpeg/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "75",
+    "createdAt": 1576609126,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a8/c0/09/a8c0099a-3e9a-3a6b-f4af-b2767e25630d/mza_6721617997679729951.png/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "76",
+    "createdAt": 1576609322,
+    "trackId": 634257561,
+    "collectionName": "Swiftcast: The #1 Taylor Swift Podcast",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/04/33/41/043341fc-ba28-5c76-ca70-185132d29f2b/mza_1840753933250005034.jpg/100x100bb.jpg",
+    "favoritedBy": "Bob Bobby"
+  },
+  {
+    "favoriteId": "83",
+    "createdAt": 1576610633,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a8/c0/09/a8c0099a-3e9a-3a6b-f4af-b2767e25630d/mza_6721617997679729951.png/600x600bb.jpg",
+    "favoritedBy": "Mai"
+  },
+  {
+    "favoriteId": "84",
+    "createdAt": 1576610641,
+    "trackId": 0,
+    "collectionName": "Red Ball",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5f/d2/ba/5fd2ba6c-875e-7d30-0b9b-23c206d348b1/mza_13163200095833178148.jpg/600x600bb.jpg",
+    "favoritedBy": "Tsering"
+  },
+  {
+    "favoriteId": "85",
+    "createdAt": 1576610595,
+    "trackId": 0,
+    "collectionName": "Enterprise Marketer Podcast - Conference",
+    "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/7a/6c/f9/7a6cf9b6-3e58-8a1f-90a3-69ed00806db7/mza_7673082330606752313.jpg/600x600bb.jpg",
+    "favoritedBy": "Tsering"
+  },
+  {
+    "favoriteId": "86",
+    "createdAt": 1576610587,
+    "trackId": 1304950078,
+    "collectionName": "That Murder & Mystery Show",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/d4/da/bc/d4dabca0-61e2-0e32-7ef9-ecf4bdd60ad8/mza_9097349861039524240.jpg/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "87",
+    "createdAt": 1576610573,
+    "trackId": 1435076502,
+    "collectionName": "Swift over Coffee",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/6c/c3/52/6cc3520d-49a2-d97c-8e0f-d350e6cb8bed/mza_4088844244369011192.jpg/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "88",
+    "createdAt": 1576610604,
+    "trackId": 1267161825,
+    "collectionName": "Swift by Sundell",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/71/7a/b2/717ab223-0664-9f2e-caf5-42b8195be7b1/mza_12687259528415535798.png/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "91",
+    "createdAt": 1576610961,
+    "trackId": 73802706,
+    "collectionName": "The Tech Guy (MP3)",
+    "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/ea/59/8b/ea598bb6-60af-6a3b-196c-064eb7bec64c/mza_3275411428913260815.jpg/60x60bb.jpg",
+    "favoritedBy": "Oscar"
+  },
+  {
+    "favoriteId": "92",
+    "createdAt": 1576610929,
+    "trackId": 1082937962,
+    "collectionName": "SwiftCoders: Interviews with Swift Developers",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/92/1d/54/921d54f9-3f72-799e-fc9d-cd596d56855b/mza_6550240234647241806.png/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "93",
+    "createdAt": 1576610960,
+    "trackId": 1034013280,
+    "collectionName": "Word Of The Week",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6f/ed/0c/6fed0c18-490d-7247-9438-7a917b48c5f7/mza_8160879686667805720.jpg/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "95",
+    "createdAt": 1576610976,
+    "trackId": 730817926,
+    "collectionName": "Gulliver's Travels by Jonathan Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6d/04/65/6d0465c7-4ec3-22db-4132-2b772078472b/mza_6063611022474185458.jpg/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "96",
+    "createdAt": 1576611069,
+    "trackId": 1281844176,
+    "collectionName": "Swiftish: A Taylor Swift Podcast",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/df/85/ac/df85ac26-5edf-7a9c-3afb-00fda688ee48/mza_5345521758418980326.png/600x600bb.jpg",
+    "favoritedBy": "Bob Bobby"
+  },
+  {
+    "favoriteId": "99",
+    "createdAt": 1576611104,
+    "trackId": 1467481703,
+    "collectionName": "The Origins Podcast with Lawrence Krauss",
+    "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7f/68/9b/7f689b5d-0ebe-fc23-a5ac-138e76d7fa99/mza_8297249981575822653.jpg/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "100",
+    "createdAt": 1576611104,
+    "trackId": 1482067226,
+    "collectionName": "The Next Big Idea",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/45/ca/83/45ca8329-c949-3c63-0a25-f909fbe48cdd/mza_12794555153897296201.jpeg/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "101",
+    "createdAt": 1576611346,
+    "trackId": 350580455,
+    "collectionName": "Duncan Trussell Family Hour",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/30/19/61/301961f5-504b-4477-2998-2cf818aecbc4/mza_1345477926643787875.jpg/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "105",
+    "createdAt": 1576611690,
+    "trackId": 41,
+    "collectionName": "Are traditional texts always what they seem? Great Expectations",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/CobaltPublic4/v4/cb/38/d3/cb38d328-589f-35d9-d74d-77253b7a783e/mza_9159454979275209788.jpg/600x600bb.jpg",
+    "favoritedBy": "Christian Hurtado"
+  },
+  {
+    "favoriteId": "106",
+    "createdAt": 1576612197,
+    "trackId": 477534265,
+    "collectionName": "Taylor Talk: The Taylor Swift Podcast | reputation | 1989 | Red | Speak Now | Fearless | Taylor Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/04/c0/81/04c0814e-a769-f4f4-1c22-ca6858766712/mza_7428247299061024805.jpg/600x600bb.jpg",
+    "favoritedBy": "Tanya"
+  },
+  {
+    "favoriteId": "107",
+    "createdAt": 1576612192,
+    "trackId": 1199768588,
+    "collectionName": "Sexy Unique Podcast",
+    "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4f/7a/09/4f7a09bb-c05f-f412-e5f2-130ff05dd0ae/mza_777621139176606896.jpg/600x600bb.jpg",
+    "favoritedBy": "Yuliia"
+  },
+  {
+    "favoriteId": "110",
+    "createdAt": 1576612219,
+    "trackId": 1435076502,
+    "collectionName": "Swift over Coffee",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/6c/c3/52/6cc3520d-49a2-d97c-8e0f-d350e6cb8bed/mza_4088844244369011192.jpg/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "111",
+    "createdAt": 1576612356,
+    "trackId": 1474698060,
+    "collectionName": "GG Over EZ",
+    "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/8c/a3/5d/8ca35db2-a2fd-a5c9-3313-8352c63ec7ee/mza_771122653303734486.png/600x600bb.jpg",
+    "favoritedBy": "B.A."
+  },
+  {
+    "favoriteId": "112",
+    "createdAt": 1576612432,
+    "trackId": 1434243584,
+    "collectionName": "Artificial Intelligence (AI Podcast) with Lex Fridman",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/29/ea/e1/29eae152-8211-a682-27f3-3604dcf5fc97/mza_8620699171955537230.png/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "113",
+    "createdAt": 1576612498,
+    "trackId": 1116000318,
+    "collectionName": "Java with Juli",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/68/00/92/680092d7-c6d5-6470-98fe-7cb7a91a026d/mza_7037915486873618309.jpg/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "114",
+    "createdAt": 1576612441,
+    "trackId": 1082937962,
+    "collectionName": "SwiftCoders: Interviews with Swift Developers",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/92/1d/54/921d54f9-3f72-799e-fc9d-cd596d56855b/mza_6550240234647241806.png/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "115",
+    "createdAt": 1576612571,
+    "trackId": 667721513,
+    "collectionName": "Tom Swift and his Airship by APPLETON, Victor",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/5f/88/96/5f8896e9-9be5-529a-af14-cc807367568a/mza_1382744875394257421.png/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "116",
+    "createdAt": 1576612572,
+    "trackId": 667721513,
+    "collectionName": "Tom Swift and his Airship by APPLETON, Victor",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Features/v4/5f/88/96/5f8896e9-9be5-529a-af14-cc807367568a/mza_1382744875394257421.png/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "117",
+    "createdAt": 1576612519,
+    "trackId": 1486667407,
+    "collectionName": "Fierce Calling with Doris Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1f/1e/d2/1f1ed2fd-bcb1-65d3-ce00-3fb40e7dfe98/mza_4662013651070098215.jpg/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "119",
+    "createdAt": 1576613197,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/ea/f6/88/eaf68894-0e28-354b-19d0-ff4d05c18539/source/600x600bb.jpg",
+    "favoritedBy": "Mai"
+  },
+  {
+    "favoriteId": "120",
+    "createdAt": 1576613199,
+    "trackId": 928326346,
+    "collectionName": "A Swift Kick In The Ass",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/d9/b1/aa/d9b1aa0c-7170-73c0-4b6b-6a7a9bd0f3a9/mza_3070020259087557335.jpg/600x600bb.jpg",
+    "favoritedBy": "casandra"
+  },
+  {
+    "favoriteId": "121",
+    "createdAt": 1576613551,
+    "trackId": 1267161825,
+    "collectionName": "Swift by Sundell",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/71/7a/b2/717ab223-0664-9f2e-caf5-42b8195be7b1/mza_12687259528415535798.png/600x600bb.jpg",
+    "favoritedBy": "Mai",
+    "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/71/7a/b2/717ab223-0664-9f2e-caf5-42b8195be7b1/mza_12687259528415535798.png/60x60bb.jpg",
+    "artistName": "John Sundell",
+    "collectionId": 1267161825
+  },
+  {
+    "favoriteId": "122",
+    "createdAt": 1576613571,
+    "trackId": 1209817203,
+    "collectionName": "Swift Unwrapped",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/52/bb/9a/52bb9ad5-445f-ae66-18f1-ea48713bcd81/mza_6039041788077785464.jpg/600x600bb.jpg",
+    "favoritedBy": "Mai",
+    "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/52/bb/9a/52bb9ad5-445f-ae66-18f1-ea48713bcd81/mza_6039041788077785464.jpg/60x60bb.jpg",
+    "artistName": "Spec",
+    "collectionId": 1209817203
+  },
+  {
+    "favoriteId": "123",
+    "createdAt": 1576613537,
+    "trackId": 1315130780,
+    "collectionName": "Developing iOS 11 Apps with Swift",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a8/c0/09/a8c0099a-3e9a-3a6b-f4af-b2767e25630d/mza_6721617997679729951.png/600x600bb.jpg",
+    "favoritedBy": "Mai",
+    "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a8/c0/09/a8c0099a-3e9a-3a6b-f4af-b2767e25630d/mza_6721617997679729951.png/60x60bb.jpg",
+    "artistName": "Paul Hegarty",
+    "collectionId": 1315130780
+  },
+  {
+    "favoriteId": "124",
+    "createdAt": 1576613614,
+    "trackId": 906987516,
+    "collectionName": "More Than Just Code podcast - iOS and Swift development, news and advice",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d8/56/95/d856950e-1d76-c613-282e-7142629a3bbc/mza_5461747381007596704.jpg/600x600bb.jpg",
+    "favoritedBy": "Mai",
+    "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d8/56/95/d856950e-1d76-c613-282e-7142629a3bbc/mza_5461747381007596704.jpg/60x60bb.jpg",
+    "artistName": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
+    "collectionId": 906987516
+  },
+  {
+    "favoriteId": "132",
+    "createdAt": 1576614914,
+    "trackId": 1197101086,
+    "collectionName": "Writer Types",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/27/14/71/27147153-0e90-a5b4-b7f0-79a2bf3f8df6/mza_2491377792338833669.jpg/600x600bb.jpg",
+    "favoritedBy": "Luba"
+  },
+  {
+    "favoriteId": "133",
+    "createdAt": 1576614870,
+    "trackId": 1476298485,
+    "collectionName": "Blossom with Keana",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6e/28/3d/6e283de6-cfa7-99c2-d49d-a02a97540c67/mza_6345159256659785651.jpg/600x600bb.jpg",
+    "favoritedBy": "Yuliia"
+  },
+  {
+    "favoriteId": "134",
+    "createdAt": 1576614878,
+    "trackId": 948387341,
+    "collectionName": "Side2 Mix",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/19/38/63/193863a9-ef8c-92aa-6a75-8d1006661fc5/mza_12122291666017675257.jpg/600x600bb.jpg",
+    "favoritedBy": "Luba"
+  },
+  {
+    "favoriteId": "136",
+    "createdAt": 1576615710,
+    "trackId": 477534265,
+    "collectionName": "Taylor Talk: The Taylor Swift Podcast | reputation | 1989 | Red | Speak Now | Fearless | Taylor Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/04/c0/81/04c0814e-a769-f4f4-1c22-ca6858766712/mza_7428247299061024805.jpg/600x600bb.jpg",
+    "favoritedBy": "Yuliia"
+  },
+  {
+    "favoriteId": "137",
+    "createdAt": 1576615730,
+    "trackId": 467641329,
+    "collectionName": "Java Pub House",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3b/02/d1/3b02d159-db96-3701-19f2-d338ac4eaba9/mza_6642724141986107330.png/600x600bb.jpg",
+    "favoritedBy": "Yuliia"
+  },
+  {
+    "favoriteId": "138",
+    "createdAt": 1576615728,
+    "trackId": 1487395885,
+    "collectionName": "C.O.F.",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/62/1f/54/621f541e-aa5d-ef0d-53d5-22d30bfe63eb/mza_9434988113001323324.jpg/600x600bb.jpg",
+    "favoritedBy": "Yuliia"
+  },
+  {
+    "favoriteId": "139",
+    "createdAt": 1576615687,
+    "trackId": 386318869,
+    "collectionName": "COF Podcast",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/d5/06/e0/d506e096-d8fb-94cf-7526-c25a193bb13c/mza_7365161182664953157.jpg/600x600bb.jpg",
+    "favoritedBy": "Yuliia"
+  },
+  {
+    "favoriteId": "142",
+    "createdAt": 1576621641,
+    "trackId": 325404506,
+    "collectionName": "StarTalk Radio",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d9/87/9d/d9879dea-69b3-181b-5ca0-47ad95a013c1/mza_7521902708292731071.jpeg/600x600bb.jpg",
+    "favoritedBy": "Kelby"
+  },
+  {
+    "favoriteId": "143",
+    "createdAt": 1576624077,
+    "trackId": 100,
+    "collectionName": "A Christmas Carol",
+    "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts4/v4/68/30/c9/6830c93f-7e88-89da-cd2c-9045ce14457c/mza_8711787866672216665.jpg/600x600bb.jpg",
+    "favoritedBy": "Klaus",
+    "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts4/v4/68/30/c9/6830c93f-7e88-89da-cd2c-9045ce14457c/mza_8711787866672216665.jpg/100x100bb.jpg",
+    "artistName": "Charles Dickens"
+  },
+  {
+    "favoriteId": "144",
+    "createdAt": 1576624126,
+    "trackId": 730817926,
+    "collectionName": "Gulliver's Travels by Jonathan Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6d/04/65/6d0465c7-4ec3-22db-4132-2b772078472b/mza_6063611022474185458.jpg/600x600bb.jpg",
+    "favoritedBy": "Tiffany Obi"
+  },
+  {
+    "favoriteId": "145",
+    "createdAt": 1576625583,
+    "trackId": 979020229,
+    "collectionName": "Talk Python To Me - Python conversations for passionate developers",
+    "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/41/40/d2/4140d2c9-898d-bf10-1bb4-5da903cce1aa/mza_8242470495418275865.png/600x600bb.jpg",
+    "favoritedBy": "Bob Bobby"
+  },
+  {
+    "favoriteId": "146",
+    "createdAt": 1576626963,
+    "trackId": 1370642192,
+    "collectionName": "How It Is",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/db/85/76/db857643-c944-5d2a-2477-274a550cbeb3/mza_9122383195844664289.jpeg/600x600bb.jpg",
+    "favoritedBy": "Bob Bobby"
+  },
+  {
+    "favoriteId": "147",
+    "createdAt": 1576631392,
+    "trackId": 1487464526,
+    "collectionName": "Abraza Tu Pasión Podcast",
+    "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f2/d9/01/f2d90191-78c6-5a1d-4057-ead43b30efbe/mza_2924568073327110960.png/600x600bb.jpg",
+    "favoritedBy": "Lilia Yudina"
+  },
+  {
+    "favoriteId": "148",
+    "createdAt": 1576648413,
+    "trackId": 477534265,
+    "collectionName": "Taylor Talk: The Taylor Swift Podcast | reputation | 1989 | Red | Speak Now | Fearless | Taylor Swift",
+    "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/04/c0/81/04c0814e-a769-f4f4-1c22-ca6858766712/mza_7428247299061024805.jpg/600x600bb.jpg",
+    "favoritedBy": "Ahad"
+  }
+]
